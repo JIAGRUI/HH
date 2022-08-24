@@ -10,8 +10,6 @@
 "user": ["ofB4v5npV3cqjzDuBwmy7uWijOlM","ofB4v5odO2aiLSs3gWLdGqROhInE"],
 
 # 信息配置
-"weather_key"： "99db867ea0ee41cbaf572cadd4a28797",
-"tian_api": "301ef22d902695040e3172166f3f8ce7",
 # 所在省份
 "province": "甘肃",
 # 所在城市
